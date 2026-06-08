@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👨‍💻 Hi, I'm Md Asif Ahmed! 👋
 
-<!--
-**asif-ahmed-cseng/asif-ahmed-cseng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final Year Computer Science and Engineering Student | Passionate about Bussiness Analysis & Data Analysis..
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🎓 Final year BSc in CSE student at Daffodil International University.
+- 💻 Deeply interested in Data Analysis, Machine Learning, and Computer Graphics.
+- ⚙️ Love working with Python, C++, and exploring time-series forecasting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies & Tools
+- *Languages:* C, C++, Python, SQL, Java
+- *Graphics/ML:* OpenGL, FreeGLUT, Pandas, Scikit-Learn
+- *Tools:* Git, GitHub, VS Code, Jupyter Notebook
+
+### 📬 Connect with Me
+- *LinkedIn:* https://www.linkedin.com/in/asif-ahmed-shohag-41528130a?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- *Email:* ahmed23105101064@diu.edu.bd
